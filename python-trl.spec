@@ -1,6 +1,6 @@
 Name:		python-trl
-Version:	1.10.0
-Release:	2
+Version:	1.16.0
+Release:	1
 Summary:	Train transformer language models with reinforcement learning
 License:	Apache-2.0
 Group:		Development/Python
